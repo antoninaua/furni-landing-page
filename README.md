@@ -14,7 +14,7 @@ The Furniture Store Landing Page is a responsive web page that showcases various
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/antoninaua/furni-landing-page.git
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the furniture products and interact with the page's features.
 
