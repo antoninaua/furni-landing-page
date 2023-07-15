@@ -26,5 +26,9 @@ You can customize the styles and appearance by modifying the style.css file. Fee
 
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please feel free to submit a pull request or open an issue.
 
+## License
+
+This project is released without any license. You are free to use, modify, and distribute the code as you see fit.
+
 
 
